@@ -1,0 +1,18 @@
+.card-container{
+    width: 650px;
+    height: 240px;
+    display: flex;
+    background-color: rgb(60, 62, 68);
+    border-radius: 15px;
+    color: white;
+    margin: 15px;
+}
+
+.card-content{
+    padding: 15px;
+}
+
+.status{
+    display: flex;
+    align-items: center;
+}

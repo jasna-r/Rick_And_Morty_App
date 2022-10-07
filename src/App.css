@@ -1,0 +1,26 @@
+.cards-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background: rgb(32, 35, 41);
+}
+
+.input-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(32, 35, 41);
+}
+
+input {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 300px;
+    height: 30px;
+}
+
+button{
+    height: 36px;
+}
