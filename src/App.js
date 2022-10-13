@@ -13,7 +13,7 @@ function App() {
 
   useEffect(() => {
     fetchCharacters()
-  }, [search])
+  }, [search]);
 
   function fetchCharacters() {
     try {
